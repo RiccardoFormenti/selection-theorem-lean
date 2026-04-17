@@ -4,4 +4,3 @@ This repository is a Lean 4 formalization of two classical selection results for
 
 The code is organized in three main files. Correspondences.lean introduces the basic language of set-valued maps and lower hemicontinuity. ApproximateSelection.lean proves the existence of continuous approximate selections using partitions of unity. MichaelSelection.lean refines this construction through an iterative argument, producing a genuine continuous selection for lower hemicontinuous correspondences with nonempty closed convex values in a complete separable normed space.
 
-The project is written in a Mathlib-oriented style and is intended as a clean formalization of foundational results in set-valued analysis and topology.
